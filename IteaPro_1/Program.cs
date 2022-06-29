@@ -4,7 +4,7 @@ namespace IteaPro_1
 {
     class Program
     {
-        static int maxArrey (int [] arrey)
+        static int max (int [] arrey)
         {
             int max = arrey[0];
             for (int i = 0; i < arrey.Length; i++)
